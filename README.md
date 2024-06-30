@@ -1,10 +1,9 @@
-Resume Summarizer ad Predictor
+Resume Summarizer and Predictor
 ====================
 
 **The dataset**: https://www.kaggle.com/datasets/noorsaeed/resume-datasets
 
-**The goal is to predict Resume Categorization, Job Recommendation and provide summary of important information extracted from resume(Name, Phone Number, Email, Skills and Education)
-**
+**The goal is to predict Resume Categorization, Job Recommendation and provide a summary of important information extracted from the resume(Name, Phone Number, Email, Skills and Education)**
 
 Below are the screenshots attached: 
 
